@@ -6,5 +6,6 @@ Here we prepare some widely used methods to let you practice, including:
 4. HSV filter
 5. Morphological: erosion, dilation, open, close
 6. Find contours
+7. wow
 
 Those skills are very powerful and important skills, please enjoy learning and put them into good use :)
